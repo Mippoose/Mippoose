@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ОСНОВЫ RAGE:MP - ВСЁ О КОМАНДАХ - УРОК #2](https://www.youtube.com/watch?v=qKL1l0XQ_PQ)
 - [BASICS OF RAGE:MP - ALL ABOUT COMMANDS - LESSON #2](https://www.youtube.com/watch?v=rYrQtilGjcE)
 - [BASICS OF RAGE:MP - RAGE SERVER IN 5 MINUTES - LESSON #1](https://www.youtube.com/watch?v=p6D_wlwz3js)
 - [ОСНОВЫ RAGE:MP - СЕРВЕР ЗА 5 МИНУТ - УРОК #1](https://www.youtube.com/watch?v=O_EY7_VSmC8)
 - [BASICS OF RAGE:MP - SETTING UP WORKING ENVIRONMENT - LESSON #0](https://www.youtube.com/watch?v=M25qVHzh_70)
-- [ОСНОВЫ RAGE:MP - ПОДГОТОВКА СРЕДЫ РАЗРАБОТКИ - УРОК #0](https://www.youtube.com/watch?v=v3WPTiji8Pk)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>

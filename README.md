@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ОСНОВЫ RAGE:MP - ВСЁ ПРО СОБЫТИЯ - УРОК #4](https://www.youtube.com/watch?v=2yKrDPnz4Xc)
+- [BASICS OF RAGE:MP - ALL ABOUT EVENTS - LESSON #4](https://www.youtube.com/watch?v=VwnMAkFFY-I)
 - [BASICS OF RAGE:MP - COLSHAPES, MARKERS, CHECKPOINTS, BLIPS - LESSON #3](https://www.youtube.com/watch?v=TjhgP8hIyDg)
 - [ОСНОВЫ RAGE:MP - КОЛШЕЙПЫ, МАРКЕРЫ, ЧЕКПОИНТЫ, БЛИПЫ - УРОК #3](https://www.youtube.com/watch?v=2wBiMn0pXmA)
 - [ОСНОВЫ RAGE:MP - ВСЁ О КОМАНДАХ - УРОК #2](https://www.youtube.com/watch?v=qKL1l0XQ_PQ)
-- [BASICS OF RAGE:MP - ALL ABOUT COMMANDS - LESSON #2](https://www.youtube.com/watch?v=rYrQtilGjcE)
-- [BASICS OF RAGE:MP - RAGE SERVER IN 5 MINUTES - LESSON #1](https://www.youtube.com/watch?v=p6D_wlwz3js)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>

@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BASICS OF RAGE:MP - ALL ABOUT RPC- LESSON #5BONUS](https://www.youtube.com/watch?v=h6eGRYY0ssk)
 - [РЕШАЕМ C# ЗАДАЧУ | SOLVING C# PROBLEM](https://www.youtube.com/watch?v=dZlBuZuYofc)
 - [ОСНОВЫ RAGE:MP - ВСЁ ПРО ПРОЦЕДУРЫ - УРОК #5БОНУС](https://www.youtube.com/watch?v=bXCB0wVPNCE)
 - [ОСНОВЫ RAGE:MP - ВСЁ ПРО DATA - УРОК #5](https://www.youtube.com/watch?v=GU3rkNRMYsg)
 - [BASICS OF RAGE:MP - ALL ABOUT DATA- LESSON #5](https://www.youtube.com/watch?v=aBwBSB2W-a0)
-- [ОСНОВЫ RAGE:MP - ВСЁ ПРО СОБЫТИЯ - УРОК #4](https://www.youtube.com/watch?v=2yKrDPnz4Xc)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>

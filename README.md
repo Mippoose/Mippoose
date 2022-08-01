@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ОСНОВЫ RAGE:MP - EF CORE - УРОК #6](https://www.youtube.com/watch?v=bJbeKOscGgU)
+- [BASICS OF RAGE:MP - EF CORE - LESSON #6](https://www.youtube.com/watch?v=dKNoctgeSmE)
 - [BASICS OF RAGE:MP - ALL ABOUT RPC- LESSON #5BONUS](https://www.youtube.com/watch?v=h6eGRYY0ssk)
 - [РЕШАЕМ C# ЗАДАЧУ | SOLVING C# PROBLEM](https://www.youtube.com/watch?v=dZlBuZuYofc)
 - [ОСНОВЫ RAGE:MP - ВСЁ ПРО ПРОЦЕДУРЫ - УРОК #5БОНУС](https://www.youtube.com/watch?v=bXCB0wVPNCE)
-- [ОСНОВЫ RAGE:MP - ВСЁ ПРО DATA - УРОК #5](https://www.youtube.com/watch?v=GU3rkNRMYsg)
-- [BASICS OF RAGE:MP - ALL ABOUT DATA- LESSON #5](https://www.youtube.com/watch?v=aBwBSB2W-a0)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>

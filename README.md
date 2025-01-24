@@ -1,5 +1,3 @@
-[![Header](https://github.com/Mippoose/Mippoose/blob/main/assets/header.png)](https://www.youtube.com/channel/UCmdVplsahZmv4z_lOWRJ2EQ)
-
 ## I'm a software engineer and beginner youtuber ;3 
 
 ### Latest YouTube Videos
